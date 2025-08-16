@@ -56,4 +56,4 @@ Or run it directly from your IDE by executing the `main` method in [`Check_Up.Lu
 
 ## License
 
-This project is for educational and demonstration purposes.
+This project is for educational and demonstration purposes .
